@@ -1,22 +1,3 @@
-
-/*  Student information for assignment:
- *
- *  On our honor, Kaustub and Sumedh, this programming assignment is our own work
- *  and we have not provided this code to any other student.
- *
- *  Number of slip days used: 0
- *
- *  Student 1: Kaustub Navalady
- *  UTEID: kan2235
- *  email address: kaustub.nvd@gmail.com
- *  Grader name: Amir
- *
- *  Student 2: Sumedh Chilakamarri
- *  UTEID: ssc2536
- *  email address: sumedh.chilak@utexas.edu
- *
- */
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
